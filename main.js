@@ -1,1 +1,1 @@
-var data = {123};
+var data = [123];
